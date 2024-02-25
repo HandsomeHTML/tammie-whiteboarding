@@ -1,0 +1,36 @@
+* {
+    background-color: black;
+}
+
+.white {
+    color: white;
+}
+
+.font {
+    font-weight: normal;
+}
+
+.boxsize {
+    width:200px;
+    height:200px;
+}
+
+#red {
+    color:red;
+}
+
+#blue {
+    color:blue;
+}
+
+#orange {
+    color:orange;
+}
+
+#green {
+    color:green;
+}
+
+#yellow {
+    color:yellow;
+}
